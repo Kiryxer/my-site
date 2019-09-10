@@ -90,7 +90,7 @@ article ul li{
 
 .help-sites{
   color: #4470c4;
-  text-decoration: none;
+  text-decoration: unset;
 }
 
 .avatar-container {
