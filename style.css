@@ -81,7 +81,6 @@ i {
 
 .help-sites ul{
   list-style: none;
-  color: #4470c4;
 }
 
 .help-sites li{
@@ -90,6 +89,7 @@ i {
 
 .help-sites a{
   text-decoration: none;
+  color: #4470c4;
 }
 
 .avatar-container {
