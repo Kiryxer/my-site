@@ -87,6 +87,10 @@ i {
   border-radius: 50%;
 }
 
+article ul{
+  list-style: none;
+}
+
 .blog-navigation {
   margin-bottom: 30px;
   padding: 20px;
