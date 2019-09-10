@@ -87,8 +87,16 @@ i {
   border-radius: 50%;
 }
 
-.body ul{
+.body ul {
   list-style: none;
+}
+
+.body li {
+  margin-bottom: 5px;
+}
+
+.body a {
+  color: #aaaaaa;
 }
 
 .blog-navigation {
