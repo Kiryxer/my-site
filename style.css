@@ -87,17 +87,18 @@ i {
   border-radius: 50%;
 }
 
-.body ul {
+.help-sites{
   list-style: none;
 }
 
-.body li {
+.help-sites li{
   margin-bottom: 5px;
 }
 
-.body a {
+.help-sites a{
   color: #aaaaaa;
 }
+
 
 .blog-navigation {
   margin-bottom: 30px;
