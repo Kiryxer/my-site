@@ -83,8 +83,13 @@ i {
   list-style: none;
   color: #4470c4;
 }
+
 .help-sites li{
   margin-bottom: 5px;
+}
+
+.help-sites a{
+  text-decoration: none;
 }
 
 .avatar-container {
