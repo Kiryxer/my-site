@@ -89,6 +89,7 @@ i {
 
 .help-sites{
   list-style: none;
+  text-decoration: none;
 }
 
 .help-sites li{
@@ -97,7 +98,6 @@ i {
 
 .help-sites a{
   color: #ffffff;
-  text-decoration: none;
 }
 
 
