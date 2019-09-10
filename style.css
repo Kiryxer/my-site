@@ -37,7 +37,7 @@ code {
 
 pre code {
   background-color: transparent;
-  border-radius: none;
+  border-radius: unset;
   border: none;
 }
 
