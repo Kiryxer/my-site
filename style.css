@@ -79,18 +79,12 @@ i {
   font-style: normal;
 }
 
-article ul{
+.help-sites ul{
   list-style: none;
-  padding-left: 0;
-}
-
-article ul li{
-  margin-bottom: 5px;
-}
-
-.help-sites{
   color: #4470c4;
-  text-decoration: unset;
+}
+.help-sites li{
+  margin-bottom: 5px;
 }
 
 .avatar-container {
