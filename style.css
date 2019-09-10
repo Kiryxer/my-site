@@ -79,6 +79,12 @@ i {
   font-style: normal;
 }
 
+article ul{
+  list-style: none;
+  color: #aaaaaa;
+  text-decoration: underline;
+}
+
 .avatar-container {
   text-align: center;
 }
@@ -112,12 +118,6 @@ i {
 
 .blog-navigation a {
   color: #ffffff;
-}
-
-acticle ul{
-  list-style: none;
-  color: #aaaaaa;
-  text-decoration: underline;
 }
 
 .skills dd {
