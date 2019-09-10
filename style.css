@@ -20,19 +20,18 @@ h2 {
 
 pre,
 code {
-  background-color: #fafaff;
-  border: 1px solid #c6c4f4;
-  border-radius: 4px;
-  color: #3632ad;
-  font-family: "Courier New", "Courier", monospace;
+  background-color: #ffffff;
+  font-family: "Arial", "Courier", sans-serif;
 }
 
 pre {
   padding: 5px;
 }
 
-code {
-  padding: 2px 5px;
+code{
+  border: double 2px #c6f5f0;
+  border-radius: 4px;
+  padding: 3px;
 }
 
 pre code {
@@ -74,9 +73,17 @@ ins {
   text-decoration: none;
 }
 
-em,
-i {
-  font-style: normal;
+time{
+  color: rgb(68, 112, 196);
+}
+
+ol li {
+  margin-bottom: 5px;
+}
+
+ol ul {
+  list-style: none;
+  padding-left: 10px;
 }
 
 .avatar-container {
@@ -88,6 +95,7 @@ i {
 }
 
 .help-sites{
+  padding-left: 0;
   list-style: none;
 }
 
@@ -96,9 +104,9 @@ i {
 }
 
 .help-sites a{
-  color: #ffffff;
+  color: #4a87fa;
+  text-decoration: none;
 }
-
 
 .blog-navigation {
   margin-bottom: 30px;
@@ -138,7 +146,7 @@ i {
   font-size: 12px;
   text-align: center;
   color: #ffffff;
-  background-color: #4470c4;
+  background-color: #ff4400;
 }
 
 .skills-level-ok {
