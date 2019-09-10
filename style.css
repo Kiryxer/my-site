@@ -79,19 +79,6 @@ i {
   font-style: normal;
 }
 
-.help-sites ul{
-  list-style: none;
-}
-
-.help-sites li{
-  margin-bottom: 5px;
-}
-
-.help-sites a{
-  text-decoration: none;
-  color: #4470c4;
-}
-
 .avatar-container {
   text-align: center;
 }
