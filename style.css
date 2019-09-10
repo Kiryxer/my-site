@@ -114,6 +114,12 @@ i {
   color: #ffffff;
 }
 
+acticle ul{
+  list-style: none;
+  color: #aaaaaa;
+  text-decoration: underline;
+}
+
 .skills dd {
   margin: 0;
   margin-bottom: 10px;
