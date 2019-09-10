@@ -81,8 +81,16 @@ i {
 
 article ul{
   list-style: none;
-  color: #aaaaaa;
-  text-decoration: underline;
+  padding-left: 0;
+}
+
+article ul li{
+  margin-bottom: 5px;
+}
+
+.help-sites{
+  color: #4470c4;
+  text-decoration: none;
 }
 
 .avatar-container {
